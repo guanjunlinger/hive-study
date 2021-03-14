@@ -49,41 +49,13 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="hivestudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hivestudy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hivestudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hivestudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hivestudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hivestudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hivestudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hivestudy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1615721429370" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1615727945345" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -126,12 +98,34 @@
       <workItem from="1615558929254" duration="65000" />
       <workItem from="1615559011376" duration="513000" />
       <workItem from="1615559548151" duration="531000" />
-      <workItem from="1615596185808" duration="1192000" />
+      <workItem from="1615596185808" duration="1981000" />
     </task>
+    <task id="LOCAL-00001" summary="hive ql解析">
+      <created>1615721421336</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615721421336</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hive ql解析">
+      <created>1615721432093</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615721432093</updated>
+    </task>
+    <task id="LOCAL-00003" summary="hive ql解析">
+      <created>1615721440307</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615721440307</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4219000" />
+    <option name="totallyTimeSpent" value="5008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
@@ -171,6 +165,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hive ql解析" />
+    <option name="LAST_COMMIT_MESSAGE" value="hive ql解析" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
