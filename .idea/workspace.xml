@@ -4,6 +4,7 @@
     <list default="true" id="3e761bc4-9dfb-4cac-8d9e-50119bb7e139" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/HIVE.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HIVE.xmind" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hive-source.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hive-source.xmind" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,32 +64,40 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="hive-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hive-study" type="462c0819:PsiDirectoryNode" />
+              <item name="hivestudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hivestudy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hive-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hive-study" type="462c0819:PsiDirectoryNode" />
+              <item name="hivestudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hivestudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hive-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hive-study" type="462c0819:PsiDirectoryNode" />
+              <item name="hivestudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hivestudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hive-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hive-study" type="462c0819:PsiDirectoryNode" />
+              <item name="hivestudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hivestudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hivestudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hivestudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -99,7 +108,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616064797138" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617718285770" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -107,11 +116,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\gitRepository\hivestudy\src\main\java" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\gitRepository\hivestudy\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gitRepository\hivestudy\src\main\java\com\hive\function\sql" />
+      <recent name="D:\gitRepository\hivestudy\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -145,6 +155,8 @@
       <workItem from="1615596185808" duration="1981000" />
       <workItem from="1615800091601" duration="96000" />
       <workItem from="1615883538683" duration="9351000" />
+      <workItem from="1617718306033" duration="598000" />
+      <workItem from="1618140369938" duration="1703000" />
     </task>
     <task id="LOCAL-00001" summary="hive ql解析">
       <created>1615721421336</created>
@@ -199,12 +211,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18316000" />
+    <option name="totallyTimeSpent" value="21164000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39658847" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32793522" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -220,7 +232,7 @@
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32866043" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32970452" />
