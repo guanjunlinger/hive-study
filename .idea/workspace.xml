@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3e761bc4-9dfb-4cac-8d9e-50119bb7e139" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Hive-source.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Hive-source.xmind" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,43 +62,51 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="hive-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hive-study" type="462c0819:PsiDirectoryNode" />
+              <item name="hivestudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hivestudy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hive-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hive-study" type="462c0819:PsiDirectoryNode" />
+              <item name="hivestudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hivestudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hive-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hive-study" type="462c0819:PsiDirectoryNode" />
+              <item name="hivestudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hivestudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hive-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hive-study" type="462c0819:PsiDirectoryNode" />
+              <item name="hivestudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hivestudy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hivestudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hivestudy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1617701294395" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1618151781329" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -107,11 +114,12 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\gitRepository\hivestudy\src\main\java" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\gitRepository\hivestudy\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gitRepository\hivestudy\src\main\java\com\hive\function\sql" />
+      <recent name="D:\gitRepository\hivestudy\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -145,7 +153,8 @@
       <workItem from="1615596185808" duration="1981000" />
       <workItem from="1615800091601" duration="96000" />
       <workItem from="1615883538683" duration="9351000" />
-      <workItem from="1617698508522" duration="1264000" />
+      <workItem from="1617718306033" duration="598000" />
+      <workItem from="1618140369938" duration="1825000" />
     </task>
     <task id="LOCAL-00001" summary="hive ql解析">
       <created>1615721421336</created>
@@ -196,23 +205,23 @@
       <option name="project" value="LOCAL" />
       <updated>1615909487809</updated>
     </task>
-    <task id="LOCAL-00008" summary="解决">
-      <created>1616064811823</created>
+    <task id="LOCAL-00008" summary="hive ql解析">
+      <created>1618151681727</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1616064811823</updated>
+      <updated>1618151681727</updated>
     </task>
     <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19647000" />
+    <option name="totallyTimeSpent" value="21286000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-6" y="-6" width="1293" height="773" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4008529" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32793522" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -228,14 +237,13 @@
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32827735" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32866043" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.32970452" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="bottom" id="Tool Output" order="14" />
       <window_info anchor="bottom" id="ANTLR Preview" order="15" />
-      <window_info anchor="right" id="RestServices" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2489339" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -284,8 +292,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hive ql解析" />
-    <MESSAGE value="解决" />
-    <option name="LAST_COMMIT_MESSAGE" value="解决" />
+    <option name="LAST_COMMIT_MESSAGE" value="hive ql解析" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
